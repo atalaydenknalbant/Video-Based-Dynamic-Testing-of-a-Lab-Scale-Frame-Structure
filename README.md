@@ -1,6 +1,6 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atalaydenknalbant/ML-Displacement-Detection/blob/main/TF_Displacement.ipynb)
 
-# Video Based On Dynamic Testing For A Lab Scale Frame Structure
+# Video Based Dynamic Testing of a Lab Scale Frame Structure
 
 This repository holds code a project that applies deep neural network regression to predict frame structure durability from vibration data. The core concept involves measuring real frame structure vibrations with an ADXL335 accelerometer sensor mounted on an Arduino microcontroller. The sensor data are synchronized with recorded video reference frames to allow visual validation and post analysis.
 
